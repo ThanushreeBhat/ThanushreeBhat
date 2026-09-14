@@ -1,202 +1,85 @@
 # Hi 👋, I'm Thanushree Bhat K G
 
-### 💻 Computer Science & Engineering Student | Full-Stack Developer | Tech Enthusiast
+### 💻 CSE Student | Full-Stack Developer | Tech Enthusiast
 
-I'm a Computer Science & Engineering student passionate about **software development, problem solving, and building practical solutions**.
+I'm a Computer Science & Engineering student passionate about **building practical software, problem solving, and learning new technologies**.
 
-I enjoy turning ideas into working applications, exploring new technologies, participating in hackathons, and collaborating with other developers.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.E. Computer Science & Engineering student at **Sahyadri College of Engineering & Management**
-* 📈 Currently maintaining a **9.96 / 10.00 CGPA**
-* 💻 Interested in **Full-Stack Development, Software Engineering & AI/ML**
-* 🧠 Actively strengthening my **Data Structures & Algorithms** skills
-* 🛠️ Building applications using **React, Next.js, Node.js, Express.js, MongoDB & Firebase**
-* 🔐 Interested in **authentication, application security and role-based access control**
-* 🏆 Hackathon enthusiast and problem solver
-* 🤝 Member of **SOSC (Student Open Source Community)**
-* 🌱 Always learning, building and experimenting with new technologies
+* 🎓 CSE @ Sahyadri College of Engineering & Management
+* 📈 CGPA: **9.96 / 10**
+* 💻 Interested in **Full-Stack Development, AI/ML & Software Engineering**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🏆 Hackathon enthusiast
+* 🤝 Open-source & developer community enthusiast
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+**Languages:** C++ • Python • Java • JavaScript
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+**Frontend:** React • Next.js • HTML • CSS • Tailwind CSS • Bootstrap
 
-### 🌐 Frontend
+**Backend:** Node.js • Express.js • REST APIs
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+**Database:** MongoDB • Firebase • Supabase • SQL
 
-### ⚙️ Backend & APIs
+**Security:** JWT • Bcrypt • RBAC
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=black)
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🔐 Security & Authentication
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-003A70?style=for-the-badge\&logoColor=white)
-
-* JWT-based authentication
-* Bcrypt password hashing
-* Role-Based Access Control (RBAC)
-* Protected API routes
-* Multi-tenant data isolation
-
-### 🔧 Tools & Practices
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-**Practices:** Agile/Scrum • Code Reviews • Design Thinking • Git Workflows
+**Tools:** Git • GitHub • VS Code • Linux
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔧 FixMate — On-Demand Home Services & Dispatch Platform
+### 🔧 FixMate
 
-A real-time service marketplace connecting **customers, technicians, dispatchers, and admins** with booking, service tracking, notifications, and emergency dispatch workflows.
+**On-Demand Home Services & Dispatch Platform**
 
-**Tech:** Next.js • Node.js • Express.js • Firebase • REST APIs
+Real-time marketplace connecting customers, technicians, dispatchers and admins.
 
-* 👥 Built a four-role architecture with **Role-Based Access Control (RBAC)**
-* 🔐 Implemented Firebase Authentication and user profile management
-* 📅 Developed the customer booking workflow and live status tracking
-* 🔔 Implemented real-time notification triggers using Firestore `onSnapshot`
-* 🚨 Integrated emergency dispatch requests and booking status synchronization
-* ⭐ Built a customer ratings and feedback system
+**Next.js • Node.js • Express • Firebase • REST APIs**
 
----
+* 🔐 Authentication & RBAC
+* 📅 Booking & live status tracking
+* 🔔 Real-time notifications
+* 🚨 Emergency dispatch
 
 ### 📚 Smart Student Task & Study Planner
 
-A full-stack productivity platform designed to help students manage tasks, track productivity, and maintain daily study streaks.
+Full-stack productivity platform for task management, study streaks and productivity tracking.
 
-**Tech:** MongoDB • Express.js • React • Node.js • JWT • Bcrypt
+**React • Node.js • Express • MongoDB • JWT • Bcrypt**
 
-* 🔐 Implemented **JWT-based authentication** with protected routes
-* 🛡️ Designed multi-tenant data isolation to prevent cross-account data access
-* 🔑 Secured credentials using **Bcrypt password hashing**
-* 🔥 Built a gamified daily-streak engine with same-day and lapsed-streak handling
-* 🧠 Developed a rule-based **Smart Briefing** prioritizing overdue and high-priority tasks
-* 🔎 Implemented multi-parameter task search and filtering
-* 📊 Added a completion-based productivity score
+* 🔐 Secure authentication
+* 🛡️ Multi-user data isolation
+* 🔥 Daily streak system
+* 🧠 Smart task prioritization
 
----
+### 🛍️ Yoink
 
-### 🛍️ Yoink — Campus Marketplace Web Application
+Hyper-local **campus marketplace** for buying, selling and offering services.
 
-A hyper-local campus marketplace enabling students to **buy, sell, and offer services within their college community**.
+**React • Firebase • REST APIs**
 
-**Tech:** React • Firebase • REST APIs
-
-* 🎓 Designed around requirements gathered from student stakeholders
-* 🔐 Implemented secure authentication and profile management with Firebase Auth
-* ⚡ Built real-time listing creation and updates using Firestore
-* 🧩 Developed a responsive React UI using reusable components
-* 🚀 Deployed the application to production using Vercel
+* ⚡ Real-time listings
+* 🔐 Authentication & profiles
+* 📱 Responsive UI
+* 🚀 Deployed on Vercel
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 **Winner — Internal Hackathon, Smart India Hackathon 2025**
-* 🏅 **Semi-Finalist — Economic Times AI Hackathon**
-* 📊 **IIT Madras — Foundation in Data Science & Programming**
-* 🤖 **IBM SkillsBuild — AI Literacy Certification**
-* ☁️ **Google Cloud — Basics of Cloud Computing**
+* 🥇 Winner — **Smart India Hackathon 2025 Internal Hackathon**
+* 🏅 Semi-Finalist — **Economic Times AI Hackathon**
+* 📊 IIT Madras — Foundation in Data Science & Programming
+* 🤖 IBM SkillsBuild — AI Literacy
+* ☁️ Google Cloud — Basics of Cloud Computing
 
 ---
 
-## 🌱 Open Source & Community
+## 🤝 Connect With Me
 
-### 🤝 SOSC — Student Open Source Community
-
-Active member of the college's official FOSS community, participating in:
-
-* 🔍 Peer code reviews
-* 🌿 Git version control workflows
-* 💻 Open-source initiatives
-* 🧹 Software quality and development best practices
-
----
-
-## 🧠 Problem Solving
-
-I'm actively working on improving my **Data Structures & Algorithms** skills and regularly practicing problems using Python.
-
-### Current Focus
-
-```text
-Data Structures & Algorithms
-          ↓
-Full-Stack Development
-          ↓
-Secure Web Applications
-          ↓
-AI / Machine Learning
-          ↓
-Open Source & Collaboration
-```
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build and deploy more real-world applications
-* 🧠 Strengthen Data Structures & Algorithms
-* 🤖 Explore AI/ML and AI-powered applications
-* 🌐 Contribute more actively to open source
-* 🤝 Connect with developers, mentors and industry professionals
-* 🏆 Participate in more hackathons and technical communities
-* 📚 Continuously improve my software engineering skills
-
----
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThanushreeBhat&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/ThanushreeBhat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thanushree-bhat-749674332">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
+[GitHub](https://github.com/ThanushreeBhat) • [LinkedIn](https://www.linkedin.com/in/thanushree-bhat-749674332)
 
 ### 💡 Build. Learn. Share. Repeat.
-
-⭐ Feel free to explore my repositories and connect with me!
